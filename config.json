@@ -1,5 +1,5 @@
 {
-  "auth-key": "chatgpt2api",
+  "auth-key": "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",
   "refresh_account_interval_minute": 5,
   "image_retention_days": 15,
   "image_poll_timeout_secs": 120,
